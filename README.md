@@ -1,4 +1,4 @@
 # Siddhesh-demo
 This is my first repository
 <br>
-Auhor - Siddhesh Pawar
+Auhor - Siddhesh (Siddehesh-demo)
